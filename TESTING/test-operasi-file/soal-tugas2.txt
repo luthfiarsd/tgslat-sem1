@@ -1,0 +1,35 @@
+1
+1. Berapa 1+1?
+    a. 11
+    b. 2
+    c. 0
+    d. Jendela
+a
+2
+2. 2x2 berapa?
+    a. Gatau
+    b. 100
+    c. 0
+    d. 4
+d
+3
+3. Tes mic biasanya pake nomer berapa?
+    a. 666
+    b. 000
+    c. 123
+    d. 987
+c
+4
+4. Tes keberuntungan, silahkan pilih
+    a. tirai 1
+    b. tirai 2
+    c. kotak 1
+    d. kotak 2
+c
+5
+5. Berapakah nomor urut prabowo pada pilpres 2014
+    a. 1
+    b. 2
+    c. 3
+    d. gatau
+a

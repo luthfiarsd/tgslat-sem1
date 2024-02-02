@@ -1,0 +1,109 @@
+Ronde ke-1
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 290
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 213
+
+Ronde ke-2
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 280
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 201
+
+Ronde ke-3
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 270
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 189
+
+Ronde ke-4
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 260
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 177
+
+Ronde ke-5
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 250
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 165
+
+Ronde ke-6
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 240
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 153
+
+Ronde ke-7
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 230
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 141
+
+Ronde ke-8
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 220
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 129
+
+Ronde ke-9
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 210
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 117
+
+Ronde ke-10
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 200
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 105
+
+Ronde ke-11
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 190
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 93
+
+Ronde ke-12
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 180
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 81
+
+Ronde ke-13
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 170
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 69
+
+Ronde ke-14
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 160
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 57
+
+Ronde ke-15
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 150
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 45
+
+Ronde ke-16
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 140
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 33
+
+Ronde ke-17
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 130
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 21
+
+Ronde ke-18
+Kamu menyerang musuh dengan 10 damage.
+Health musuh sekarang 120
+Musuh menyerang kamu dengan 12 damage.
+Health kamu sekarang 9
+
+Musuh menang dalam 18 ronde dengan 120 health tersisa!
